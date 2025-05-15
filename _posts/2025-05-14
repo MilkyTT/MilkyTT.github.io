@@ -1,0 +1,26 @@
+layout	title
+post
+Day 2 - "Progress"
+What I Set Out to Do
+[In your own words, describe what you were aiming to create or figure out this week. What problem were you trying to solve? What feature were you excited to try? What question did you want to answer?]
+
+I planned to analyze the certain data. For example, I planned to select the data of Freshman students from specific universities and display the data. Then, I planned to visualize the data and compare the students' GPA. I planned to create interesting questions based on the student data provided, analyze them, and create visuals to present the information.
+
+What I Actually Did
+[Describe what you actually ended up doing or discovering. If things changed along the way (they often do!), what changed and why? Include screenshots, diagrams, or code snippets if helpful.] First, I assigned the variable df to the data from a URL. After exploring the data as I was previously, I wrote code that displayed certain parts of the large dataset that I was analyzing. For example, I selected data from all students who got 4.0 GPAs, from specific schools, and a combination of the two. These attributes were the columns of the data table. I wrote a code to list all of the different universities that appear in the dataset. I did this by finding the unique values for the column School.
+
+Then, I also compared the percentages of Freshman college students getting above certain GPA overtime by visualizing the data. I displayed the data via line graph. The line graph had a legend with each line representing different schools. The year was the x-axis and the y-axis represented the percentages and the different lines represented the different types of schools.
+
+What I Learned or Noticed
+[What did you take away from your work this week? It could be technical (like learning how to use Pygame or CSS Grid), strategic (such as finding a better way to plan), or personal (like discovering how you stay motivated). Your takeaway might be small (figuring out a tricky method or function) or big (like realizing how much you’ve grown as a problem solver). Try to be specific—
+
+For example:
+
+This: ✅ “During class, we discussed dictionaries and I realized that I can use them to organize player stats way more cleanly than using parallel lists.”
+
+NOT this: ❌ “This week helped me realize I actually enjoy debugging when I understand the bigger picture.”]
+
+When graphing data in Python, I had to install the module matplotlib. I learned this when I got an error when I got the code. The error message told me to install the matplotlib. I searched the current Python and wrote code to install matplotlib in the terminal of Visual Studio Code. I ran the code, and I was able to install it.
+
+What's Next
+[What do you plan to tackle in the next stage of your project?] I want to explore and analyze more data before I go to my next microproject.
