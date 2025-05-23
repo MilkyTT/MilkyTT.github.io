@@ -23,6 +23,7 @@ This project was part of my final quest in Computer Programming Fundamentals, an
 
 Read my development journey:  
 
+
 [📝 My Blog](blog.html)
 
 You’ll find design notes, bug stories, progress screenshots, and what I learned.
