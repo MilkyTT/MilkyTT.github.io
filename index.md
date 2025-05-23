@@ -15,7 +15,8 @@ This project was part of my final quest in Computer Programming Fundamentals, an
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
-🛠️ [Source Code (GitHub)](https://github.com/YOURUSERNAME/YOURPROJECT)  
+🛠️ 1. [First Source Code (GitHub)](https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-01-trends-in-high-school-gpas/microproject-01-trends-in-high-school-gpas.ipynb)
+   2. [Second Source Code (GitHub)](https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-08-fifa-matches-since-1872/microproject-08-fifa-matches-since-1872.ipynb)
 
 ## Dev Log
 
