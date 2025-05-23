@@ -17,7 +17,10 @@ This project was part of my final quest in Computer Programming Fundamentals, an
 
 🛠️ [First Source Code (GitHub)](https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-01-trends-in-high-school-gpas/microproject-01-trends-in-high-school-gpas.ipynb)
 
-   [Second Source Code (GitHub)](https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-08-fifa-matches-since-1872/microproject-08-fifa-matches-since-1872.ipynb)
+🛠️ [Second Source Code (GitHub)](https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-08-fifa-matches-since-1872/microproject-08-fifa-matches-since-1872.ipynb)
+
+🛠️ Please access my README[(GitHub)(https://github.com/MilkyTT/MilkyTT.github.io/blob/main/README.md)
+
 
 ## Dev Log
 
