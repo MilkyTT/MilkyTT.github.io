@@ -31,6 +31,7 @@ Read my development journey:
 
 You’ll find design notes, bug stories, progress screenshots, and what I learned.
 
+
 ---
 
 <small>Advised by [Lux Vijayan](mailto:laxmiv2@illinois.edu)</small>
