@@ -4,8 +4,6 @@ title: "Day 0 - Planning"
 ---
 
 ### Project Focus
-
-[What kind of project are you planning to build? Give it a working title and briefly describe what it is (e.g., a game, simulation, interactive story). What makes it interesting or challenging?]
 My project is working with given data and modifying them using Visual Studio Code, the Python app, Git, and GitHub. First, I had to download Visual Studio Code, the latest Python app, and create a GitHub account. Git already came with my computer, so I did not need to install that. I linked Python to Visual code and then linked Jupyter notebook to Visual Studio Code. I then tested the installed pandas, which is a data analysis module. I then dded the microproject to remotely to my repository. I then fetched the initial files by running the commands provided. My working title is Data Science MicroProjects. I started my first microproject on data science (i.e., Trends in High School GPAs). I am able to read the data and explored the High School GPAs dataset. I will do the analysis and the visualization the next day. I am interested because data science became a needed skill in the future and my future major, Bioengineering. The challenge was getting everything set up. Installing the required apps took me a lot of time, especially when I was getting errors because I did not finish installing the necessary apps and modules.
 
 
